@@ -2,7 +2,7 @@
 
 roadmap.sh URL:- https://roadmap.sh/projects/single-page-cv
 
-Single-Page CV
+List of Project site to see Demo
 
 01 Single Page CV, click [**here**](https://01-single-page-cv.netlify.app/) to see the website.
 
