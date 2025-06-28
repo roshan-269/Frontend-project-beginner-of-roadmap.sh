@@ -1,4 +1,4 @@
-# Frontend-project-beginner-of-roadmap.sh
+# Frontend project beginner of roadmap.sh
 
 roadmap.sh URL:- https://roadmap.sh/projects/single-page-cv
 
