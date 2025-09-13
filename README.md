@@ -11,7 +11,7 @@ List of Project sites to see the Demo
 03 Personal Portfolio, click [**here**](https://3-personal-portfolio.netlify.app/) to see the website.    
   Project Link:- https://roadmap.sh/projects/portfolio-website
 
-04 Changelog Component, click [**here**](https://changelog-component.netlify.app/) to see the website.    
-  Project Link:- [https://roadmap.sh/projects/portfolio-website](https://roadmap.sh/projects/04-changelog-component)
+04 Changelog Component, click [**here**](https://04-changelog-component.netlify.app/) to see the website.    
+  Project Link:- [https://roadmap.sh/projects/portfolio-website](https://roadmap.sh/projects/changelog-component)
 
 All roadmap.sh Frontend project (Beginner): Code and Website links
